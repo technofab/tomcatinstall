@@ -34,9 +34,15 @@ isapi_redirect example
 
 Extra
 Baretail
+
 Touch for Windows
+
 Programmers Notepad Portable
+
 METAPAD
+
 7Zip
+
 Chrome Enterprise 64 bit
+
 PortableWinCDEmu
