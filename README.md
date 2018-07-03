@@ -1,8 +1,7 @@
 # tomcatinstall
 This Repo is to centrally download or all needed for Tomcat 7 and Tomcat 8 installs
 
-For Tomcat 7 
-
+For Tomcat 7
 Windows Installs
 
 Apache Tomcat 7.0.26
